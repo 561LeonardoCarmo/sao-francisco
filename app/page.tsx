@@ -25,7 +25,7 @@ export default function HomePage() {
     { name: 'Letícia', role: 'Pastoreio', image: '/celula/leticia.png' },
     { name: 'Luis', role: 'Comunicação', image: '/celula/luis.png' },
     { name: 'Luiz Fernando', role: 'Coord. Irradiação', image: '/celula/luiz-fernando.png' },
-    { name: 'Luzivania', role: 'Formadora Comunitária', image: '/avatar-male.jpg' },
+    { name: 'Luzivania', role: 'Formadora Comunitária', image: '/celula/luzivania.jpeg' },
     { name: 'Lyssandra', role: 'Núcleo PJJ', image: '/avatar-male.jpg' },
     { name: 'Maria José', role: 'Projeto Família', image: '/avatar-male.jpg' },
     { name: 'Mayara', role: 'Sec. de Planejamento', image: '/avatar-male.jpg' },
