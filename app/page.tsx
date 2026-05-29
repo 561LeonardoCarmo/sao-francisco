@@ -10,6 +10,7 @@ export default function HomePage() {
     { name: 'Dorisvaldo', role: 'Projeto Família', image: '/avatar-male.jpg' },
     { name: 'Enrique', role: 'Coord. CEV', image: '/celula/enrique.webp' },
     { name: 'Fernando', role: 'Primeiro Anúncio', image: '/celula/fernando.png' },
+    { name: 'Gabriel', role: 'Música', image: '/avatar-male.jpg' },
     { name: 'Iasmyn', role: 'Kids', image: '/celula/iasmyn.png' },
     { name: 'Ingrid', role: 'Formadora Assistente', image: '/celula/ingrid.jpeg' },
     { name: 'Itala', role: '-', image: '/celula/itala.jpeg' },
